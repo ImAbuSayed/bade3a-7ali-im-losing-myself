@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> بضيع حالي في سحر عيونك
+> قلبي وروحي صاروا مجنونك
+> كل دنيتي تحلى في كونك
+> لا تخليني أعيش من دونك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
