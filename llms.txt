@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Bade3a 7ali – I'm Losing Myself |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 25, 2026 |
+| Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bade3a-7ali-im-losing-myself/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> بضيع حالي في سحر عيونك
+> قلبي وروحي صاروا مجنونك
+> كل دنيتي تحلى في كونك
+> لا تخليني أعيش من دونك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
