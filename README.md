@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/bade3a-7ali-im-losing-myself/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Bade3a 7ali – I'm Losing Myself](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
