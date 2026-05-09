@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bade3a 7ali – I'm Losing Myself
+
+This log tracks the cryptographic history and versioning for the song **Bade3a 7ali – I'm Losing Myself** (bade3a-7ali-im-losing-myself).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:55:47.460227 | `v1` | `73bc454dc0cf3baa54d70f68964b0237bd46fcc2f6212a25f26ac854f9e6d24f` | `87811e3c9bd9c606f633fac8a11431f6b866052d84e56f428016ba7ae715631c` | `2026-05-09_bade3a-7ali-im-losing-myself-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
